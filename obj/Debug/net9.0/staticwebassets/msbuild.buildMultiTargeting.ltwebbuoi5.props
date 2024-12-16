@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ltwebbuoi5.props" />
+</Project>
